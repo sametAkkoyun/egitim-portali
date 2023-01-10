@@ -1,0 +1,114 @@
+{
+  "uye": [
+    {
+      "id": 1,
+      "adsoyad": "Kader",
+      "kadi": "kader",
+      "mail": "kader@kader.com",
+      "admin": 1,
+      "sifre": "123"
+    },
+    {
+      "id": 2,
+      "adsoyad": "Melek",
+      "kadi": "melek",
+      "mail": "melek@melek.com",
+      "admin": 0,
+      "sifre": "123"
+    }
+  ],
+  "ogrenciler": [
+    {
+      "id": 3,
+      "adSoyad": "Arif Kayacık",
+      "ogrNo": 20201129143
+    },
+    {
+      "id": 4,
+      "adSoyad": "Hanife Kepenek",
+      "ogrNo": 20201129728
+    },
+    {
+      "id": 5,
+      "adSoyad": "Abdülbasıt Tanır",
+      "ogrNo": 20201129991
+    },
+    {
+      "id": 6,
+      "adSoyad": "Hüsniye Aratman",
+      "ogrNo": 20201129423
+    },
+    {
+      "id": 9,
+      "adSoyad": "Kader Melek",
+      "ogrNo": 20211129505
+    }
+  ],
+  "odevler": [
+    {
+      "id": 6,
+      "ogrId": 0,
+      "odevAdi": "elementum orci Quisque mauris"
+    },
+    {
+      "id": 24,
+      "ogrId": 13,
+      "odevAdi": "Angular 14"
+    },
+    {
+      "id": 26,
+      "ogrId": 13,
+      "odevAdi": "kerim"
+    },
+    {
+      "id": 32,
+      "ogrId": "5",
+      "odevAdi": "Nulla adipiscing"
+    },
+    {
+      "id": 35,
+      "ogrId": "10",
+      "odevAdi": "Multimedya Uygulamalari"
+    },
+    {
+      "id": 38,
+      "ogrId": "2",
+      "odevAdi": "Nulla adipiscing vel"
+    },
+    {
+      "id": 39,
+      "ogrId": "4",
+      "odevAdi": "vitae ante quis vel"
+    },
+    {
+      "id": 41,
+      "odevAdi": "Multimedya",
+      "ogrId": "10"
+    },
+    {
+      "id": 45,
+      "ogrId": "4",
+      "odevAdi": "namay bu "
+    },
+    {
+      "id": 46,
+      "ogrId": "6",
+      "odevAdi": "bir zat yaz gitsin"
+    },
+    {
+      "id": 48,
+      "ogrId": "6",
+      "odevAdi": "senmı bu "
+    },
+    {
+      "id": 49,
+      "ogrId": "3",
+      "odevAdi": "Tasarim"
+    },
+    {
+      "id": 50,
+      "ogrId": "3",
+      "odevAdi": "asdasd"
+    }
+  ]
+}

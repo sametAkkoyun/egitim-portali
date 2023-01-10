@@ -1,8 +1,8 @@
 # OdevDagitimPortaliKKK
 
-Kayıt edilen her öğrencinin şifresi 123456 olarak ayarlanır. Firesbase yetkilendirmesi, Google ve emailandpassword, storage de profil fotoğrafları tutulmaktadır. Firestore'da kullanıcı ve dersler bilgileri tutulur.
+Kayıt edilen her öğrencinin şifresi **"123456"** olarak ayarlanır. Firesbase yetkilendirmesi, Google ve emailandpassword, storage de profil fotoğrafları tutulmaktadır. Firestore'da kullanıcı ve dersler bilgileri tutulur.
 
-#Portaldan görüntüler
+# Portaldan görüntüler
 Login with google
 ![image](https://user-images.githubusercontent.com/110449954/211589661-b23e9844-6f5c-4a13-90a1-2e563c67cbe3.png)
 Main panel
